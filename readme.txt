@@ -152,7 +152,7 @@ See also: <http://comment-mail.com/installation/>
 
 1. Upload the `/comment-mail` folder to your `/wp-content/plugins/` directory.
 2. Activate the plugin through the Plugins menu in WordPress®.
-3. Navigate to the **Comment Subs** panel & enable it.
+3. Navigate to the **Comment Mail** panel & enable.
 
 == Frequently Asked Questions ==
 
